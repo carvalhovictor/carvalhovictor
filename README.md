@@ -8,8 +8,10 @@ Graduated in 2011 and worked in the coding area since 2009 , switched career and
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [victorcamargocarvalho@gmail.com](mailto:victorcamargocarvalho@gmail.com)
-*   🚀  I'm currently working on [Vallourec](http://www.vallourec.com/pt-BR/br)
-*   ⚡  Can work on back-end too### Skills 
+*   🚀  I'm currently working @ [Vallourec](http://www.vallourec.com/pt-BR/br)
+*   ⚡  Can work on back-end too
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -29,13 +31,10 @@ Graduated in 2011 and worked in the coding area since 2009 , switched career and
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
                     
+### Socials
                   
                   
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/carvalhovictor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/victor-carvalho-1605a24a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://www.github.com/carvalhovictor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                          
+<a href="https://www.linkedin.com/in/victor-carvalho-1605a24a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
